@@ -1,0 +1,118 @@
+.arrow {
+  transform: rotate(180deg);
+  width:65px;
+  height: 30px;
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 20px;
+}
+.simbol {
+  width:160px;
+  height: 160px;
+}
+.keterangan {
+  color: #706f6f;
+}
+.menu {
+  margin-left: 1000px;
+}
+.menu1 {
+  margin-right: 30px;
+}
+.human {
+  border: 0.2px;
+  width: 950px;
+  height: 1000px;
+}
+.teks_human{
+  padding-top:250px;
+  margin-left: 250px;
+  padding-right: 80px; 
+}
+.teks1 {
+  font-size:70px;
+}
+.wallet {
+  height: 700px;
+  width: 900px;
+  margin-right: 30px;
+  border: 0.2px;
+}
+.teks_wallet {
+  margin-left: 30px;
+  margin-top: 150px;
+}
+.teks2 {
+  font-size: 50px;
+}
+.masuk1 {
+  background-color:#70A559;
+  width: 200px;
+  height: 50px; 
+  text-decoration-color: #ffffff;
+  margin-top: 30px;
+}
+.masuk2 {
+  background-color:#70A559;
+  width: 200px;
+  height: 50px; 
+  text-decoration-color: #ffffff;
+}
+.note {
+  padding-right: 100%;
+  font-size: 17px;
+  color:#9b932e;
+  font-weight: 600;
+  width: 100px;
+  text-align: center;
+}
+span.note.p{
+  text-align: center;
+}
+
+span.note{
+  padding-left: 100px;
+}
+p {
+  padding-left: 35px;
+}
+.navbar {
+  background-color: #6fc040;
+  height: 120px;
+}
+.logo {
+  width: 350px;
+  height: 70px;
+}
+ul.menu {
+  margin-left: 1000px;
+}
+.card{
+  shadow: 20px;
+}
+.teks_card {
+  background-color: #70A559;
+}
+div.gallery {
+  margin: 0px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+
+
